@@ -1,0 +1,15 @@
+/Users/volodia/Desktop/РАЗРАБОТЧИК /Знакомство с языками программирования /1 Семинар/DZ_1 Zadanie4/bin/Debug/net6.0/DZ_1 Zadanie4
+/Users/volodia/Desktop/РАЗРАБОТЧИК /Знакомство с языками программирования /1 Семинар/DZ_1 Zadanie4/bin/Debug/net6.0/DZ_1 Zadanie4.deps.json
+/Users/volodia/Desktop/РАЗРАБОТЧИК /Знакомство с языками программирования /1 Семинар/DZ_1 Zadanie4/bin/Debug/net6.0/DZ_1 Zadanie4.runtimeconfig.json
+/Users/volodia/Desktop/РАЗРАБОТЧИК /Знакомство с языками программирования /1 Семинар/DZ_1 Zadanie4/bin/Debug/net6.0/DZ_1 Zadanie4.dll
+/Users/volodia/Desktop/РАЗРАБОТЧИК /Знакомство с языками программирования /1 Семинар/DZ_1 Zadanie4/bin/Debug/net6.0/DZ_1 Zadanie4.pdb
+/Users/volodia/Desktop/РАЗРАБОТЧИК /Знакомство с языками программирования /1 Семинар/DZ_1 Zadanie4/obj/Debug/net6.0/DZ_1 Zadanie4.csproj.AssemblyReference.cache
+/Users/volodia/Desktop/РАЗРАБОТЧИК /Знакомство с языками программирования /1 Семинар/DZ_1 Zadanie4/obj/Debug/net6.0/DZ_1 Zadanie4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/volodia/Desktop/РАЗРАБОТЧИК /Знакомство с языками программирования /1 Семинар/DZ_1 Zadanie4/obj/Debug/net6.0/DZ_1 Zadanie4.AssemblyInfoInputs.cache
+/Users/volodia/Desktop/РАЗРАБОТЧИК /Знакомство с языками программирования /1 Семинар/DZ_1 Zadanie4/obj/Debug/net6.0/DZ_1 Zadanie4.AssemblyInfo.cs
+/Users/volodia/Desktop/РАЗРАБОТЧИК /Знакомство с языками программирования /1 Семинар/DZ_1 Zadanie4/obj/Debug/net6.0/DZ_1 Zadanie4.csproj.CoreCompileInputs.cache
+/Users/volodia/Desktop/РАЗРАБОТЧИК /Знакомство с языками программирования /1 Семинар/DZ_1 Zadanie4/obj/Debug/net6.0/DZ_1 Zadanie4.dll
+/Users/volodia/Desktop/РАЗРАБОТЧИК /Знакомство с языками программирования /1 Семинар/DZ_1 Zadanie4/obj/Debug/net6.0/refint/DZ_1 Zadanie4.dll
+/Users/volodia/Desktop/РАЗРАБОТЧИК /Знакомство с языками программирования /1 Семинар/DZ_1 Zadanie4/obj/Debug/net6.0/DZ_1 Zadanie4.pdb
+/Users/volodia/Desktop/РАЗРАБОТЧИК /Знакомство с языками программирования /1 Семинар/DZ_1 Zadanie4/obj/Debug/net6.0/DZ_1 Zadanie4.genruntimeconfig.cache
+/Users/volodia/Desktop/РАЗРАБОТЧИК /Знакомство с языками программирования /1 Семинар/DZ_1 Zadanie4/obj/Debug/net6.0/ref/DZ_1 Zadanie4.dll
