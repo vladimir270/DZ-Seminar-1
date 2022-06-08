@@ -1,0 +1,15 @@
+/Users/volodia/Desktop/РАЗРАБОТЧИК /Знакомство с языками программирования /1 Семинар/DZ1_Zadanie2/bin/Debug/net6.0/DZ1_Zadanie2
+/Users/volodia/Desktop/РАЗРАБОТЧИК /Знакомство с языками программирования /1 Семинар/DZ1_Zadanie2/bin/Debug/net6.0/DZ1_Zadanie2.deps.json
+/Users/volodia/Desktop/РАЗРАБОТЧИК /Знакомство с языками программирования /1 Семинар/DZ1_Zadanie2/bin/Debug/net6.0/DZ1_Zadanie2.runtimeconfig.json
+/Users/volodia/Desktop/РАЗРАБОТЧИК /Знакомство с языками программирования /1 Семинар/DZ1_Zadanie2/bin/Debug/net6.0/DZ1_Zadanie2.dll
+/Users/volodia/Desktop/РАЗРАБОТЧИК /Знакомство с языками программирования /1 Семинар/DZ1_Zadanie2/bin/Debug/net6.0/DZ1_Zadanie2.pdb
+/Users/volodia/Desktop/РАЗРАБОТЧИК /Знакомство с языками программирования /1 Семинар/DZ1_Zadanie2/obj/Debug/net6.0/DZ1_Zadanie2.csproj.AssemblyReference.cache
+/Users/volodia/Desktop/РАЗРАБОТЧИК /Знакомство с языками программирования /1 Семинар/DZ1_Zadanie2/obj/Debug/net6.0/DZ1_Zadanie2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/volodia/Desktop/РАЗРАБОТЧИК /Знакомство с языками программирования /1 Семинар/DZ1_Zadanie2/obj/Debug/net6.0/DZ1_Zadanie2.AssemblyInfoInputs.cache
+/Users/volodia/Desktop/РАЗРАБОТЧИК /Знакомство с языками программирования /1 Семинар/DZ1_Zadanie2/obj/Debug/net6.0/DZ1_Zadanie2.AssemblyInfo.cs
+/Users/volodia/Desktop/РАЗРАБОТЧИК /Знакомство с языками программирования /1 Семинар/DZ1_Zadanie2/obj/Debug/net6.0/DZ1_Zadanie2.csproj.CoreCompileInputs.cache
+/Users/volodia/Desktop/РАЗРАБОТЧИК /Знакомство с языками программирования /1 Семинар/DZ1_Zadanie2/obj/Debug/net6.0/DZ1_Zadanie2.dll
+/Users/volodia/Desktop/РАЗРАБОТЧИК /Знакомство с языками программирования /1 Семинар/DZ1_Zadanie2/obj/Debug/net6.0/refint/DZ1_Zadanie2.dll
+/Users/volodia/Desktop/РАЗРАБОТЧИК /Знакомство с языками программирования /1 Семинар/DZ1_Zadanie2/obj/Debug/net6.0/DZ1_Zadanie2.pdb
+/Users/volodia/Desktop/РАЗРАБОТЧИК /Знакомство с языками программирования /1 Семинар/DZ1_Zadanie2/obj/Debug/net6.0/DZ1_Zadanie2.genruntimeconfig.cache
+/Users/volodia/Desktop/РАЗРАБОТЧИК /Знакомство с языками программирования /1 Семинар/DZ1_Zadanie2/obj/Debug/net6.0/ref/DZ1_Zadanie2.dll
